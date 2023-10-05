@@ -1,8 +1,9 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Ksenia</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=35&duration=1&pause=1&color=7A47E6FF&background=FFFFFF4D&repeat=false&width=435&lines=Hi+there%2C+I'm+Ksenia" alt="Typing SVG" /></a>
+</h1>
 
 <h3 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=26&pause=100&color=7F2DA4&width=435&lines=Computer+science+student%F0%9F%8C%B1" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=27&pause=1000&color=814BF3FF&background=FFFFFF4D&repeat=true&width=435&lines=Computer+science+student+&#129361" alt="Typing SVG" /></a>
 </h3>
 
 
@@ -52,6 +53,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" width="40" height="40"/>
 </div>
+
+---
 
 ### :fire: My Stats :
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sikorskayaX&theme=solarized)
