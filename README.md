@@ -57,5 +57,6 @@
 ---
 
 ### :fire: My Stats :
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sikorskayaX&theme=solarized)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sikorskayaX&theme=solarized) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sikorskayaX&theme=solarized)
