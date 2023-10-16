@@ -35,7 +35,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+
 </div>
+
 
 ---
 
@@ -58,5 +60,19 @@
 
 ### :fire: My Stats :
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sikorskayaX&theme=solarized) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized)
+<!---
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sikorskayaX&theme=solarized)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sikorskayaX&theme=solarized)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sikorskayaX&theme=solarized_dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sikorskayaX&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sikorskayaX&theme=solarized_dark)
+
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+--->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sikorskayaX&layout=donut-vertical&theme=solarized)](https://github.com/anuraghazra/github-readme-stats)
+
+
