@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=27&pause=1000&color=814BF3FF&background=FFFFFF4D&repeat=true&width=435&lines=Computer+science+student+&#129361" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=27&pause=1000&color=814BF3FF&background=FFFFFF4D&repeat=true&width=435&lines=Beginner+web+developer+&#129361" alt="Typing SVG" /></a>
 </h3>
 
 
@@ -18,7 +18,7 @@
 
 - 💻: I'm learning backend and frontend. The frontend is more interesting, but there is nowhere without back.
 
-- :game_die: Сreating computer games.
+- 👩‍🎓 I'm currently learning in SFEDU
 
 - :space_invader: I'm engaged in 3D modeling.
 
@@ -26,22 +26,22 @@
 
 ---
 
-### 🔣: Languages:
+### :hammer_and_wrench: Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40"/>
+  
 
 </div>
 
-
 ---
 
-### :hammer_and_wrench: Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Git" **alt="Git" width="40" height="40"/>
@@ -56,13 +56,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" width="40" height="40"/>
 </div>
 
+
 ---
 
 ### :fire: My Stats :
+
+
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sikorskayaX&theme=solarized) 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sikorskayaX&theme=solarized)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sikorskayaX&theme=solarized)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sikorskayaX&theme=solarized)
 
 
 
