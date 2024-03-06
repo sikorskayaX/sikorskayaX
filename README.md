@@ -16,13 +16,11 @@
 
 ### :woman_technologist: About Me :
 
-- 💻: I'm learning backend and frontend. The frontend is more interesting, but there is nowhere without back.
+- 💻: I'm interested in web development - backend and frontend. 
 
 - 👩‍🎓 I'm currently learning in SFEDU
 
 - :space_invader: I'm engaged in 3D modeling.
-
-- 🎮: In my free time, I play computer and mobile games.
 
 ---
 
