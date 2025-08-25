@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=27&pause=1000&color=814BF3FF&background=FFFFFF4D&repeat=true&width=435&lines=Beginner+web+developer+&#129361" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=27&pause=1000&color=814BF3FF&background=FFFFFF4D&repeat=true&width=435&lines=Frontend+developer+&#129361" alt="Typing SVG" /></a>
 </h3>
 
 
@@ -17,10 +17,6 @@
 ### :woman_technologist: About Me :
 
 - 💻: I'm interested in web development - backend and frontend. 
-
-- 👩‍🎓 I'm currently learning in SFEDU
-
-- :space_invader: I'm engaged in 3D modeling.
 
 ---
 
